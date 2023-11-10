@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on self improvement.. also I'm a tutor in programming school
 - 🌱 I’m currently learning Blender, Unreal Engine 4, C++
   
-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lotuvia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
