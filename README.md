@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on self improvement.. also I'm a tutor in programming school
 - 🌱 I’m currently learning Blender, Unreal Engine 4, C++
+  
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **lotuvia/lotuvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
