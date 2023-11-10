@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning Blender and Unreal Engine 4
-- 📫 How to reach me: coming soon..
+- 🔭 I’m currently working on self improvement.. also I'm a tutor in programming school
+- 🌱 I’m currently learning Blender, Unreal Engine 4, C++
 
 <!--
 **lotuvia/lotuvia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
